@@ -82,3 +82,11 @@
     width: 100%;
   }
 }
+
+#w3a-modal .w3a-modal__header,
+#w3a-modal .w3a-modal__footer,
+.w3ajs-social-logins,
+.w3ajs-email-passwordless,
+.w3a-group__title {
+  display: none;
+}
